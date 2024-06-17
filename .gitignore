@@ -9,6 +9,7 @@ dist-newstyle
 updo
 .updo
 .stack-work
+project-nix
 
 # Nix
 result*
