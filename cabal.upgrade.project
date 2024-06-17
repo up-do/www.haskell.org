@@ -1,0 +1,9 @@
+import: https://stackage.org/nightly-2024-06-17/cabal.config
+
+packages:
+    builder
+
+
+program-options
+  ghc-options: -fhide-source-paths
+

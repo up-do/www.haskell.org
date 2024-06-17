@@ -1,0 +1,9 @@
+user-message: "WARNING: This stack project is generated."
+
+resolver: lts-16.31
+
+packages:
+  - ./builder
+
+extra-deps:
+  - fsnotify-0.3.0.1

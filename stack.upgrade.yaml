@@ -1,0 +1,8 @@
+user-message: "WARNING: This stack project is generated."
+
+resolver: nightly-2024-06-17
+
+packages:
+  - ./builder
+
+extra-deps: []

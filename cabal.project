@@ -1,0 +1,10 @@
+import: https://stackage.org/lts-16.31/cabal.config
+
+packages:
+    builder
+
+constraints:
+    fsnotify ==0.3.0.1
+program-options
+  ghc-options: -fhide-source-paths
+
