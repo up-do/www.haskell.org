@@ -6,6 +6,8 @@ _cache
 cabal.project.local
 dist
 dist-newstyle
+updo
+.updo
 
 # Nix
 result*
