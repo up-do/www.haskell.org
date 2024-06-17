@@ -10,6 +10,7 @@ updo
 .updo
 .stack-work
 project-nix
+project-versions.nix
 
 # Nix
 result*
